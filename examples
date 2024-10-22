@@ -1,0 +1,5 @@
+collect_unique_mins([4, 5, 2, 3], 4, UniqueMins).
+shifts_to_min_first([4, 5, 2, 3], Shifts).
+collect_unique_mins([7, 3, 5, 1, 4], 5, UniqueMins).
+shifts_to_min_first([7, 3, 5, 1, 4], Shifts).
+collect_unique_mins([6, 8, 5, 7], 4, UniqueMins).
